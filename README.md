@@ -1,5 +1,7 @@
 # Money Funding & Laundering Bots for Aztec Protocol
 
+<img alt="Money Funding & Laundering Bots for Aztec Protocol" src="./blob/preview.png">
+
 ## Intro
 
 Most attacks begin and end with the use of private services that allow funding or withdrawals without revealing the
@@ -9,7 +11,7 @@ The most popular service among attackers of DeFi projects was the [Tornado Cash]
 However, after it was blocked by The US Department of Treasury, other projects will likely take over this niche. 
 [Aztec Protocol](https://aztec.network/), which is a privacy-first zk-rollup on Ethereum, could be a potential such project.
 
-<img alt="Money Funding & Laundering Bots for Aztec Protocol" src="./blob/preview.png"  height="290">
+
 
 ## Status
 
