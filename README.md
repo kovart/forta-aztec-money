@@ -1,6 +1,6 @@
-# Money Funding & Laundering Bots for Aztec Protocol
+# Forta Bots: Funding & Money Laundering Though Aztec Protocol
 
-<img alt="Money Funding & Laundering Bots for Aztec Protocol" src="./blob/preview.png">
+<img alt="Funding & Money Laundering Though Aztec Protocol" src="./blob/preview.png">
 
 ## Intro
 
