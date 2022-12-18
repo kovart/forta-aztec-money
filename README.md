@@ -15,20 +15,20 @@ However, after it was blocked by The US Department of Treasury, other projects w
 
 ## Status
 
-> The proposal was created on Gitcoin
+> Bots are running on the Forta Network and are under active maintenance. 
 
 ## The Proposal
 
 To improve attack detection in the [Forta Protocol](https://forta.org/) ecosystem, it is proposed to develop two separate bots covering both
 the account funding stage before an attack and the money laundering stage that occurs after the attack is performed.
 
-### Funded Account Interaction Bot
+### [Funded Account Interaction Bot](https://github.com/kovart/forta-aztec-protocol-money-laundering)
 
 This bot detects when an account that was funded by Aztec Connect interacts with a contract.
 The severity of these findings is low, as they do not indicate malicious activity. However, in the presence of other
 suspicious activity, they greatly increase the accuracy of attack detection.
 
-### Money Laundering Bot
+### [Money Laundering Bot](https://github.com/kovart/forta-aztec-protocol-funding)
 
 This bot detects when numerous large transfers are made to Aztec Connect, potentially indicating post-hacking money
 laundering activity. All user transfers are summed up within a specified time and checked for exceeding the threshold.
